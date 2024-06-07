@@ -1,3 +1,5 @@
+<img widdth=100% src="https://capsule-render.vercel.app/api?type=waving&height=154&color=1E90FF&descAlign=39&section=header&reversal=false&fontAlign=0"/>
+
 # Hello! I am Marília Rodrigues ✨
 
 <div style="background-color: rgb(12, 20, 50); border-radius: 5px; padding: 20px; color: rgb(247, 247, 247);">
