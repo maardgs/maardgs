@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=105&color=A52A2A&text=Hello,%20I%20am%20Marília%20Marques!✨&fontColor=808080&fontAlign=27&fontAlignY=83&textBg=false&fontSize=29&section=header"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=6&color=A52A2A&fontColor=808080&fontAlign=22&fontAlignY=50&textBg=false&fontSize=29&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=8B008B&text=Hello,%20I%20am%20Marília%20Rodrigues!✨&section=header&fontAlign=50&fontColor=F0F8FF&fontSize=51"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=10&color=8B008B&section=footer&fontAlign=50&fontColor=F0F8FF&fontSize=51"/>
 
 <div style="background-color: rgb(12, 20, 50); border-radius: 5px; padding: 20px; color: rgb(247, 247, 247);">
 
