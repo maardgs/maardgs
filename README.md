@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=8B008B&text=Hello,%20I%20am%20Marília%20Rodrigues!✨&section=header&fontAlign=50&fontColor=F0F8FF&fontSize=51"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=8B008B&text=Hello,%20I'm%20Marília%20Rodrigues!✨&section=header&fontAlign=50&fontColor=F0F8FF&fontSize=51"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=10&color=8B008B&section=footer&fontAlign=50&fontColor=F0F8FF&fontSize=51"/>
 
 <div style="background-color: rgb(12, 20, 50); border-radius: 5px; padding: 20px; color: rgb(247, 247, 247);">
