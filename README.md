@@ -1,31 +1,24 @@
 <h1>About me ✨</h1>
 <br>
 
-###
- ```java
- 
-public class maardgs {
-
-    private String name;
-    private String email;
-    private String[] hobbies;
-
-    public maardgs() {
+### 
+```javascript
+class Maardgs {
+    constructor() {
         this.name = "Marília Rodrigues";
         this.email = "contato@mariliarodrigues.com.br";
-        this.hobbies = new String[]{"longboard", "fotografia", "livros"};
+        this.hobbies = ["longboard", "fotografia", "livros"];
     }
 
-    public void sayHello() {
-        System.out.println("Bem-vindo ao meu perfil!");
-    }
-
-    public static void main(String[] args) {
-        maardgs perfil = new maardgs();
-        perfil.sayHello();
+    sayHello() {
+        console.log("Bem-vindo ao meu perfil!");
     }
 }
- ```
+
+const perfil = new Maardgs();
+perfil.sayHello();
+
+```
 
 ###
 
