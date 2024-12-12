@@ -34,6 +34,8 @@ perfil.sayHello();
 <img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png" style="margin-right: 10px;" /> 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" style="margin-right: 10px;" /> 
 <img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" style="margin-right: 10px;" />
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" style="margin-right: 10px;" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" style="margin-right: 10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" style="margin-right: 10px;" />
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" style="margin-right: 10px;" /> 
 <br style="clear: both;" />
