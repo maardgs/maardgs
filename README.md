@@ -43,9 +43,3 @@ perfil.sayHello();
 
 <br>
 
-<div>
-<h2 style="font-size: 24px; margin-bottom: 15px;">📊 My GitHub Stats:</h2>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maardgs&layout=compact&langs_count=10&theme=github_dark_dimmed" alt="Top Langs" style="margin-right: 20px;" />
-
-</div>
